@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83039132611",
+    "firebase_url": "https://x2o-3144a.firebaseio.com",
+    "project_id": "x2o-3144a",
+    "storage_bucket": "x2o-3144a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83039132611:android:47263f3cfcb45d0ccffb76",
+        "android_client_info": {
+          "package_name": "com.x2o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83039132611-es5c25b4rlgpuvcbm9o6uf4k70cd926u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qb_WSmvQ8rceRGeoMrlzwKwm4ZFNLdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83039132611-es5c25b4rlgpuvcbm9o6uf4k70cd926u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
